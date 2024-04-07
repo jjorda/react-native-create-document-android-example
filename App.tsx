@@ -7,8 +7,8 @@
 
 import React from 'react';
 import {StyleSheet, Text, View, Button} from 'react-native';
-import {createDocument} from '@jjorda/react-native-create-document-android';
 import {writeFile} from '@dr.pogodin/react-native-fs';
+import {createDocument} from 'react-native-create-document-android';
 
 const FILE_CONTENT = 'some words in android file';
 

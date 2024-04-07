@@ -10,10 +10,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "@dr.pogodin/react-native-fs": "^2.24.1",
     "react": "18.2.0",
     "react-native": "0.73.6",
-    "@jjorda/react-native-create-document-android": "1.0.0",
-    "@dr.pogodin/react-native-fs": "^2.24.1"
+    "react-native-create-document-android": "^1.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
